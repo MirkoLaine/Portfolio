@@ -1,6 +1,6 @@
 📊 **Mirko Laine — Business Dashboards & Strategic Insights**
 
-Welcome to my portfolio of interactive dashboards and visual data analyses, developed using Microsoft Excel and visualized through concise and insight-driven presentations. This repository showcases three distinct dashboard projects, each designed to answer key business questions, highlight performance drivers, and support strategic decision-making across different industries and data contexts.
+Welcome to my portfolio of interactive dashboards and visual data analyses, developed using Microsoft Excel and visualized through concise and insight-driven presentations. This repository showcases four distinct dashboard projects, each designed to answer key business questions, highlight performance drivers, and support strategic decision-making across different industries and data contexts.
 
 🔍 Introduction This collection includes four comprehensive Excel Data Analysis projects:
 
