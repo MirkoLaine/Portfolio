@@ -1,44 +1,41 @@
-📊 **Mirko Laine – Business Dashboards & Strategic Insights**
+📊 Mirko Laine — Business Dashboards & Strategic Insights
 
+A compact portfolio of Excel-based dashboards and insight-first presentations. Each project answers a concrete business question, highlights performance drivers, and ends with clear, decision-ready takeaways.
 
-Welcome to my portfolio of interactive dashboards and visual data analyses, developed using Microsoft Excel and visualized through concise and insight-driven presentations. This repository showcases three distinct dashboard projects, each designed to answer key business questions, highlight performance drivers, and support strategic decision-making across different industries and data contexts.
+Projects
 
-🔍 Introduction
-This collection includes three comprehensive dashboard projects:
+Employee Sales Performance Dashboard
+Manager/region/category views with KPI drill-downs and outlier detection (incl. box-and-whisker analysis) to spot pricing gaps and top-/under-performers.
+Themes: revenue efficiency · high-margin focus · individual benchmarking
+Excel: Mirko Laine Employees Sales Dashboard.xlxs
+Deck: Employee Sales Performance Presentation.pdf
 
-1. Employee Sales Performance Dashboard
-A detailed view into sales performance by manager, region, and product category. The dashboard is complemented by advanced descriptive statistics and visual breakdowns (e.g., box & whisker plots) to explore pricing dynamics and performance outliers.
+Coffee Sales Dashboard
+2019–2022 trend analysis by product, geo, and customer behavior to guide assortment and channel strategy; flags seasonality and concentration risks; tracks loyalty uptake.
+Themes: seasonality · customer concentration · loyalty optimization
+Excel: Mirko Laine Coffee Sales Dashboard.xlxs
+Deck: Coffee Sales Performance Review.pdf
 
-🔑 Key themes: revenue efficiency, high-margin focus, individual performance benchmarking
+Shoe Brand Sales Dashboard
+Market-level view of six brands with profitability, revenue trajectory, cost mix, and share development to support pricing and inventory decisions.
+Themes: brand profitability · share analysis · cost–performance balance
+Excel: Mirko Laine Shoe Brand Sales Performance Dashboard.xlxs
+Deck: Shoe Brand Sales Performance Analysis.pdf
 
-📎 Presentation: Employee Sales Performance Presentation.pdf
+SportsDrink Co — Market Entry & Expansion (Model + Deck)
+Comparative sizing and profitability across five EU markets and age segments, using questionnaire demand inputs and cost assumptions to compute market potential (10% penetration), gross/operating profit, and margins. The analysis identifies UK, 15–29 as the top pick (~€347M operating income at ~88% margin) and is translated into a consulting-style action plan: context → executive summary (financial evidence + rationale) → market comparison → Business Model Canvas → digital & sustainability levers → HR & culture → risks → short/mid/long-term roadmap.
+Themes: market entry sizing · unit economics · decision narrative · go-to-market model · execution roadmap
+Excel: Mirko Laine SportsDrink Co Market Entry Analysis.xlsx
+Deck: Mirko Laine SportsDrink Co Market Expansion.pdf
 
-2. Coffee Sales Dashboard
-An analysis of coffee sales trends (2019–2022) segmented by product type, geography, and customer behavior. Emphasis is placed on seasonal trends, market concentration risks, and loyalty card adoption. The dashboard supports strategic decisions related to portfolio management and regional expansion.
+Tools & Techniques
 
-🔑 Key themes: seasonality, customer concentration, loyalty program optimization
+Excel (pivot tables, slicers, charts, descriptive stats, conditional formatting) · PowerPoint/PDF (exec summaries & recommendations) · Business analysis (profitability, segmentation, pricing dynamics, market sizing & unit economics).
 
-📎 Presentation: Coffee Sales Performance Review.pdf
+Purpose
 
-3. Shoe Brand Sales Dashboard
-A market-level dashboard evaluating six shoe brands by profitability, revenue development, cost structure, and market share. This project integrates brand portfolio analytics with performance tracking over time to guide marketing, pricing, and inventory strategies.
+Turn complex data into clear, actionable stories.
 
-🔑 Key themes: brand profitability, market share analysis, cost-performance balance
+Provide strategic insights for commercial and operational decisions.
 
-📎 Presentation: Shoe Brand Sales Performance Analysis.pdf
-
-💡 Tools & Techniques Used
-Microsoft Excel: Pivot tables, slicers, charts, descriptive statistics, conditional formatting
-
-PowerPoint / PDF: Executive summaries, strategic recommendations, and visual storytelling
-
-Business analysis frameworks: Profitability assessment, market segmentation, pricing dynamics, strategic recommendations
-
-🎯 Purpose
-These dashboards and presentations were designed to:
-
-Communicate complex data in a clear, actionable format
-
-Provide strategic insights for operational and commercial decisions
-
-Showcase proficiency in Excel-based analytics, business storytelling, and performance reporting
+Demonstrate Excel-driven analytics, visual storytelling, and performance reporting.
